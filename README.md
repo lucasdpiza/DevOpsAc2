@@ -11,4 +11,4 @@ RA: 1900561
 6 - Push feito para enviar todos arquivos já feitos para o Github. (antespush, push, pushgit)
 7 - Comando "Fetch" usado para trazer uma branch para o local. (gitstatusf, fetch)
 8 - Checkout usado para mudar para uma nova branch. (gitstatusc, checkout)
-9 - Pull usado para passar do Network para o remoto. (antespull, pull)
+9 - Pull usado para passar do Network para o remoto. (testepull, pulldone, pullok)
